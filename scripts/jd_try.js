@@ -25,7 +25,7 @@ const args = {
 	pageSize: 12,
 	cidsList: ["家用电器", "手机数码", "电脑办公", "家居家装"],
 	typeList: ["普通试用", "闪电试用"],
-	goodFilters: "教程@软件@英语@辅导@培训@笔@布@片@糖@粽@流量@卡@".split('@'),
+	goodFilters: "教程@软件@英语@辅导@培训@笔@布@片@糖@粽@流量@卡".split('@'),
 	minPrice: 0,
 	maxSupplyCount: 10,
 }
